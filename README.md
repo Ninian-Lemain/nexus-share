@@ -52,6 +52,11 @@ The environment template documents all supported options. Important settings inc
 | `SOCKET_TIMEOUT` | `30000` | Peer socket inactivity timeout in milliseconds |
 | `AUTO_ACCEPT` | `false` | Automatically accept incoming transfers; keep disabled unless required |
 
+## Workflow explanation
+
+<img src="workflow_explanation.png" alt="Workflow Explanation" width="300">
+
+
 ## Development and testing
 
 - `npm run check` — syntax-check JavaScript and PHP files
